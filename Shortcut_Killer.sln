@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortcut_Killer", "Shortcut_Killer\Shortcut_Killer.csproj", "{A3E40C4F-E2B7-427B-AA68-D61FBB3FD588}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Activator", "Activator\Activator.vdproj", "{037111FD-ECA3-426D-B0FB-57FBABFDFF57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E40C4F-E2B7-427B-AA68-D61FBB3FD588}.Debug|x86.ActiveCfg = Debug|x86
+		{A3E40C4F-E2B7-427B-AA68-D61FBB3FD588}.Debug|x86.Build.0 = Debug|x86
+		{A3E40C4F-E2B7-427B-AA68-D61FBB3FD588}.Release|x86.ActiveCfg = Release|x86
+		{A3E40C4F-E2B7-427B-AA68-D61FBB3FD588}.Release|x86.Build.0 = Release|x86
+		{037111FD-ECA3-426D-B0FB-57FBABFDFF57}.Debug|x86.ActiveCfg = Debug
+		{037111FD-ECA3-426D-B0FB-57FBABFDFF57}.Debug|x86.Build.0 = Debug
+		{037111FD-ECA3-426D-B0FB-57FBABFDFF57}.Release|x86.ActiveCfg = Release
+		{037111FD-ECA3-426D-B0FB-57FBABFDFF57}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
