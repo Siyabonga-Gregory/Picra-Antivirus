@@ -2,6 +2,12 @@
 
 I wrote this piece of software , way back in 2012 during my days at school. 
 
+If need help please, don't hesitate to send me a mail 👉 huge.fuze@gmail.com
+
+Thank you for coming by my repo and please don't forget to give this repo a star if you find it usefull.
+
+❤️Manny thanks!❤️
+
 Installer File :  https://picra.weebly.com/
 
 
